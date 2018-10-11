@@ -40,7 +40,7 @@ const Layout = ({ children }) => (
           meta={[
             { name: 'description', content: 'Kyllä.' },
             { name: 'keywords', content: 'mäkikupla, pizza, beer, lonkero' },
-            { property: 'og:image', content: ogImageUrl },
+            { property: 'og:image', content: `https://makikupla.life${ogImageUrl}` },
             { property: 'og:url', content: 'https://makikupla.life' },
             { property: 'og:title', content: 'Mäkikuplaan?' },
             { property: 'og:description', content: 'Kyllä' },
