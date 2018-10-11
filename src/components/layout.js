@@ -1,9 +1,10 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import Helmet from 'react-helmet'
+import React from 'react';
+import PropTypes from 'prop-types';
+import Helmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
 import styled, { createGlobalStyle } from 'styled-components';
-import reset from 'styled-reset'
+import reset from 'styled-reset';
+import ogImageUrl from '../images/fb-image.png';
  
 const GlobalStyle = createGlobalStyle`
   ${reset}
@@ -39,6 +40,8 @@ const Layout = ({ children }) => (
           meta={[
             { name: 'description', content: 'Kyllä.' },
             { name: 'keywords', content: 'mäkikupla, pizza, beer, lonkero' },
+            { name: 'og:image', content: ogImageUrl },
+            { name: 'og:url', content: 'https://makikupla.life' },
           ]}
         >
           <html lang="en" />
