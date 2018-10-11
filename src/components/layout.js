@@ -4,7 +4,7 @@ import Helmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
 import styled, { createGlobalStyle } from 'styled-components';
 import reset from 'styled-reset';
-import ogImageUrl from '../images/fb-image.png';
+import ogImageUrl from '../images/fb_image.png';
  
 const GlobalStyle = createGlobalStyle`
   ${reset}
