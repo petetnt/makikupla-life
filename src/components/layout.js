@@ -12,7 +12,7 @@ const GlobalStyle = createGlobalStyle`
 const Container = styled.div`
   display: grid;
   justify-items: center;
-  height: 99vh;
+  height: 100vh;
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
   text-transform: uppercase;
   font-weight: 900;
