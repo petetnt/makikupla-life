@@ -32,9 +32,13 @@ const Answer = styled.span`
   font-size: 9vw;
 `;
 
+const Dropshadow = styled.span`
+  text-shadow: 2px 2px #efe020;
+`;
+
 const IndexPage = () => (
   <Layout>
-    <Title><Pizza /> Mäkikuplaan? <Beer /></Title>
+    <Title><Pizza /> <Dropshadow>Mäkikuplaan?</Dropshadow> <Beer /></Title>
     <Answer>KYLLÄ</Answer>
   </Layout>
 )
