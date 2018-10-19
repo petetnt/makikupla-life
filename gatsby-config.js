@@ -19,16 +19,17 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-127425220-1",
+        trackingId: 'UA-127425220-1',
         head: false,
         anonymize: true,
         respectDNT: true,
         exclude: [],
         sampleRate: 5,
         siteSpeedSampleRate: 10,
-        cookieDomain: "makikupla.life",
+        cookieDomain: 'makikupla.life',
       },
     },
     'gatsby-plugin-offline',
+    'gatsby-plugin-styled-components',
   ],
-}
+};
