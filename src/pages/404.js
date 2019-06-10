@@ -1,8 +1,6 @@
-import React from 'react'
+import React from 'react';
 import Index from '.';
 
-const NotFoundPage = () => (
-  <Index />
-)
+const NotFoundPage = () => <Index />;
 
-export default NotFoundPage
+export default NotFoundPage;

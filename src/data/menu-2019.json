@@ -1,0 +1,254 @@
+{
+  "address": "Torkkelinkatu 2, 00500 Helsinki",
+  "phone": "Puh. (09) 825 31520",
+  "open": "Avoinna ark. 11-02 ja la-su 13-02",
+  "pizza": [
+    {
+      "name": "Margarita",
+      "price": "7,50",
+      "ingredients": ["juusto", "tomaattikastike"]
+    },
+    {
+      "name": "Bolognese",
+      "price": "8,50",
+      "ingredients": ["jauhelihakastike"]
+    },
+    {
+      "name": "Habaomena",
+      "price": "9,50",
+      "ingredients": ["omena", "aurajuusto", "habanero"]
+    },
+    {
+      "name": "Frutti di mare",
+      "price": "9,50",
+      "ingredients": ["katkarapu", "tonnikala", "herkkusieni"]
+    },
+    {
+      "name": "Quattro",
+      "price": "9,50",
+      "ingredients": ["kinkku", "katkarapu", "herkkusieni", "paprika"]
+    },
+    {
+      "name": "Vegetariana",
+      "price": "9,00",
+      "ingredients": ["herkkusieni", "paprika", "oliivi", "sipuli"]
+    },
+    {
+      "name": "Hawaiji",
+      "price": "9,50",
+      "ingredients": ["salami", "katkarapu", "ananas", "aurajuusto"]
+    },
+    {
+      "name": "Americano",
+      "price": "9,00",
+      "ingredients": ["kinkku", "ananas", "aurajuusto"]
+    },
+    {
+      "name": "Paradise",
+      "price": "9,50",
+      "ingredients": ["kinkku", "katkarapu", "ananas", "aurajuusto"]
+    },
+    {
+      "name": "Al tenno",
+      "price": "9,00",
+      "ingredients": ["salami", "tonnikala", "sipuli"]
+    },
+    {
+      "name": "Campagnola",
+      "price": "9,00",
+      "ingredients": [
+        "salami",
+        "ananas",
+        "sipuli",
+        "jalapeno",
+        "vihreä pepperoni"
+      ]
+    },
+    {
+      "name": "Romano",
+      "price": "9,00",
+      "ingredients": ["salami", "sipuli", "paprika", "aurajuusto"]
+    },
+    {
+      "name": "Pepperoni",
+      "price": "9,50",
+      "ingredients": ["jauheliha", "salami", "vihreä pepperoni", "jalapeno"]
+    },
+    {
+      "name": "Pinato",
+      "price": "9,50",
+      "ingredients": [
+        "pinaatti",
+        "parsakaali",
+        "kesäkurpitsa",
+        "artisokansydän",
+        "fetajuusto"
+      ]
+    },
+    {
+      "name": "Solemio",
+      "price": "8,50",
+      "ingredients": ["viherpapu", "peruna", "kukkakaali", "porkkana"]
+    },
+    {
+      "name": "Vahuiji",
+      "price": "9,00",
+      "ingredients": ["feta", "sipuli", "oliivi", "tomaatti"]
+    },
+    {
+      "name": "Verdura",
+      "price": "9,00",
+      "ingredients": ["feta", "jalapeno", "sipuli", "tomaatti"]
+    },
+    {
+      "name": "Baba",
+      "price": "9,50",
+      "ingredients": [
+        "artisokan sydän",
+        "salami",
+        "tonnikala",
+        "vihreä pepperoni"
+      ]
+    },
+    {
+      "name": "Pekoni",
+      "price": "9,00",
+      "ingredients": ["pekoni", "kananmuna", "kapris", "sipuli"]
+    },
+    {
+      "name": "Beef",
+      "price": "9,00",
+      "ingredients": ["naudanliha", "sipuli", "tomaatti", "jalapeno"]
+    },
+    {
+      "name": "Kanapizza",
+      "price": "9,00",
+      "ingredients": ["kana", "herkkusieni", "ananas"]
+    },
+    {
+      "name": "Vegtar",
+      "price": "9,00",
+      "ingredients": [
+        "herkkusieni",
+        "paprika",
+        "oliivi",
+        "vihreä pepperoni",
+        "aurajuusto"
+      ]
+    },
+    {
+      "name": "Special 1",
+      "price": "9,00",
+      "ingredients": ["salami", "mozzarella", "jalapeno", "ananas"]
+    },
+    {
+      "name": "Special 2",
+      "price": "9,00",
+      "ingredients": ["kana", "pekoni", "barbequekastike", "sipuli"]
+    },
+    {
+      "name": "Special 3",
+      "price": "9,00",
+      "ingredients": ["paprika", "vihreä pepperoni", "tomaatti", "smetana"]
+    },
+    {
+      "name": "Omavalinta",
+      "price": "11,00",
+      "ingredients": ["neljä täytettä"]
+    },
+    {
+      "name": "Kebab pizza",
+      "price": "9,00",
+      "ingredients": ["kebabliha", "vihreä chili", "sipuli", "tomaatti"]
+    },
+    {
+      "name": "Kupla special",
+      "price": "9,00",
+      "ingredients": [
+        "kebabliha",
+        "sipuli",
+        "herkkusieni",
+        "salami",
+        "tuplajuusto",
+        "pippurisekoitus"
+      ]
+    },
+    {
+      "name": "Super pizza",
+      "price": "9,50",
+      "ingredients": ["kebabliha", "kinkku", "salami", "feta", "kananmuna"]
+    },
+    {
+      "name": "Smetana special",
+      "price": "9,50",
+      "ingredients": [
+        "kebabliha",
+        "vihreä chili",
+        "sipuli",
+        "tomaatti",
+        "mozzarella",
+        "smetana"
+      ]
+    }
+  ],
+  "pasta": [
+    {
+      "name": "Carbonara",
+      "price": "9,00",
+      "ingredients": ["pekoni", "kananmuna", "kerma"]
+    },
+    {
+      "name": "Bolognese",
+      "price": "9,00",
+      "ingredients": ["jauhelihakastike"]
+    },
+    {
+      "name": "Frutti di mare",
+      "price": "9,00",
+      "ingredients": ["tomaattikastike", "katkarapu", "tonnikala", "simpukka"]
+    },
+    {
+      "name": "Hawai",
+      "price": "9,00",
+      "ingredients": ["kana", "ananas", "kerma"]
+    },
+    {
+      "name": "Vegtarna",
+      "price": "9,00",
+      "ingredients": [
+        "pinaatti",
+        "parsakaali",
+        "kesäkurpitsa",
+        "artisokan sydän"
+      ]
+    }
+  ],
+  "other": [
+    {
+      "name": "Vesi",
+      "price": "0,50"
+    },
+    {
+      "name": "Lisätäytteet",
+      "price": "1,00"
+    },
+    {
+      "name": "Täytteen vaihto",
+      "price": "0,50"
+    },
+    {
+      "name": "Pizzan puolitus",
+      "price": "1,00"
+    },
+    {
+      "name": "Gluteeniton pizzapohja",
+      "price": "2,00"
+    }
+  ],
+  "notes": {
+    "vegan": "Kaikki pizzat saa myös vegaanisena (soijajuusto) veloituksetta",
+    "special": "Kaikkiin pitsoihin sisältyy tomaattikastike ja juusto",
+    "extra": "Pyydettäessä myös valkosipu ja talon chilikastike",
+    "beer": "A-oikeudet"
+  }
+}
