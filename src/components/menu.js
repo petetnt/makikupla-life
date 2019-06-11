@@ -27,6 +27,11 @@ const Wrapper = styled.div`
     grid-template-columns: 1fr;
     grid-row-gap: 2rem;
   }
+
+  @media only screen and (max-width: 400px) {
+    padding-left: 0;
+    padding-right: 0;
+  }
 `;
 
 const Address = styled.address`
@@ -139,6 +144,10 @@ const Open = styled.div`
   padding-top: 1rem;
   padding-bottom: 1rem;
   border-radius: 1rem;
+
+  @media only screen and (max-width: 400px) {
+    font-size: 1.25rem;
+  }
 `;
 
 const Note = styled.div`
