@@ -51,7 +51,7 @@ const Beer = () => (
 
 const Title = styled.h1`
   margin-top: 3rem;
-  font-size: 9vw;
+  font-size: 8vw;
   color: red;
   text-transform: uppercase;
   font-weight: 900;
@@ -60,7 +60,7 @@ const Title = styled.h1`
 const Answer = styled.span`
   padding-top: 2rem;
   color: blue;
-  font-size: 9vw;
+  font-size: 8vw;
   text-transform: uppercase;
   font-weight: 900;
   padding-bottom: 2rem;
