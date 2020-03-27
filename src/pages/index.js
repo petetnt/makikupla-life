@@ -60,7 +60,7 @@ const Title = styled.h1`
 const Answer = styled.span`
   padding-top: 2rem;
   color: blue;
-  font-size: 8vw;
+  font-size: 6vw;
   text-transform: uppercase;
   font-weight: 900;
   padding-bottom: 2rem;
@@ -75,7 +75,7 @@ const IndexPage = ({ data }) => (
     <Title>
       <Pizza /> <Dropshadow>Mäkikuplaan?</Dropshadow> <Beer />
     </Title>
-    <Answer>KYLLÄ</Answer>
+    <Answer>EI PYSTY NYT 😭</Answer>
     <Menu {...data.dataJson} />
   </Layout>
 );
