@@ -75,7 +75,7 @@ const IndexPage = ({ data }) => (
     <Title>
       <Pizza /> <Dropshadow>Mäkikuplaan?</Dropshadow> <Beer />
     </Title>
-    <Answer>EI PYSTY NYT 😭</Answer>
+    <Answer>🏡 Nyt takeawaynä! 🏡</Answer>
     <Menu {...data.dataJson} />
   </Layout>
 );
